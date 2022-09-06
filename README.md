@@ -1,1 +1,2 @@
 # areia-acrobatics
+contributing
